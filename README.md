@@ -7,7 +7,7 @@ Exponential Function
 The [exponential function][exponential-function] is defined as
 
 <div class="equation" align="center" data-raw-text="y = b^x" data-equation="eq:exponential_function">
-	<img src="" alt="Exponential function definition.">
+	<img src="https://cdn.rawgit.com/math-io/power/c5ea39264975847f4b71f268e7d5a678c2172f05/docs/img/eqn.svg" alt="Exponential function definition.">
 	<br>
 </div>
 
