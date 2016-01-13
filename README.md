@@ -17,14 +17,14 @@ where `b` is the __base__ and `x` is the __exponent__.
 ## Installation
 
 ``` bash
-$ npm install math-pow
+$ npm install math-power
 ```
 
 
 ## Usage
 
 ``` javascript
-var pow = require( 'math-pow' );
+var pow = require( 'math-power' );
 ```
 
 #### pow( base, exponent )
@@ -58,7 +58,7 @@ val = pow( 5, NaN );
 ## Examples
 
 ``` javascript
-var pow = require( 'math-pow' );
+var pow = require( 'math-power' );
 
 var b;
 var x;
@@ -135,23 +135,23 @@ $ make view-browser-tests
 Copyright &copy; 2016. The [Compute.io][compute-io] Authors.
 
 
-[npm-image]: http://img.shields.io/npm/v/math-pow.svg
-[npm-url]: https://npmjs.org/package/math-pow
+[npm-image]: http://img.shields.io/npm/v/math-power.svg
+[npm-url]: https://npmjs.org/package/math-power
 
-[build-image]: http://img.shields.io/travis/math-io/pow/master.svg
-[build-url]: https://travis-ci.org/math-io/pow
+[build-image]: http://img.shields.io/travis/math-io/power/master.svg
+[build-url]: https://travis-ci.org/math-io/power
 
-[coverage-image]: https://img.shields.io/codecov/c/github/math-io/pow/master.svg
-[coverage-url]: https://codecov.io/github/math-io/pow?branch=master
+[coverage-image]: https://img.shields.io/codecov/c/github/math-io/power/master.svg
+[coverage-url]: https://codecov.io/github/math-io/power?branch=master
 
-[dependencies-image]: http://img.shields.io/david/math-io/pow.svg
-[dependencies-url]: https://david-dm.org/math-io/pow
+[dependencies-image]: http://img.shields.io/david/math-io/power.svg
+[dependencies-url]: https://david-dm.org/math-io/power
 
-[dev-dependencies-image]: http://img.shields.io/david/dev/math-io/pow.svg
-[dev-dependencies-url]: https://david-dm.org/dev/math-io/pow
+[dev-dependencies-image]: http://img.shields.io/david/dev/math-io/power.svg
+[dev-dependencies-url]: https://david-dm.org/dev/math-io/power
 
-[github-issues-image]: http://img.shields.io/github/issues/math-io/pow.svg
-[github-issues-url]: https://github.com/math-io/pow/issues
+[github-issues-image]: http://img.shields.io/github/issues/math-io/power.svg
+[github-issues-url]: https://github.com/math-io/power/issues
 
 [tape]: https://github.com/substack/tape
 [istanbul]: https://github.com/gotwarlost/istanbul
